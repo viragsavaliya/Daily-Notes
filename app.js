@@ -73,6 +73,6 @@ app.get("/posts/:postName", function(req, res) {
 // Post Routing
 
 
-app.listen("https://viragsavaliya.github.io/Daily-Notes/", function() {
+app.listen(24, function() {
   console.log("Server started on port 24");
 });
